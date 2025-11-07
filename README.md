@@ -3,3 +3,5 @@ The Gay List includes sexual orientations of most sorts, from ace to pan, so lon
 Gender identities such as agender, nonbinary, genderfluid, and the like are not included.
 The list is for gays.
 Fictional.
+
+[Here's a tier list. Do with it what you will](https://tiermaker.com/create/fictional-gay-15980824)
