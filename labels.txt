@@ -847,7 +847,7 @@ Female,Lesbian,Cisgender
 Female,Lesbian,Cisgender
 Male,Gay,Cisgender
 Male,Gay,Cisgender
-Female,Pansexual,Cisgender
+Female,Pansexual,Robot
 Female,Pansexual,Cisgender
 tagme
 Male,Bisexual,Cisgender
@@ -1412,3 +1412,4 @@ Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
+Male, Bisexual, Cisgender
