@@ -1412,4 +1412,7 @@ Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
-Male, Bisexual, Cisgender
+Male, Bisexual,Cisgender
+Female,Bisexual,Cisgender
+Female,Bisexual,Cisgender
+Female,Lesbian,Cisgender
