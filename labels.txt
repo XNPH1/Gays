@@ -1416,3 +1416,5 @@ Male, Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Bisexual,Cisgender
 Female,Lesbian,Cisgender
+Female,Lesbian,Cisgender
+Female,Lesbian,Cisgender
